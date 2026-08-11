@@ -1,47 +1,63 @@
-## Hi there 👋
-# ⚡ BCA '27 — CORE ARCHIVE
+<div align="center">
 
-> *"Code speaks louder than words."*
+# 👋 Hi, I'm Sneha Nishad
 
-Welcome to my personal archive. This repository serves as a centralized, living document of my computer science fundamentals, coursework, and daily progress throughout my BCA journey.
+### 🎓 BCA Student | 💻 Aspiring Software Engineer
 
----
+**Learning • Building • Improving • Growing 🚀**
 
-## 📌 What's Inside
-
-* **Structured Notes:** High-density, clear theory breakdown without filler.
-* **Lab Solutions:** Clean, well-documented programs and algorithm implementations.
-* **System Design & Web:** OOP concepts, SQL query structures, and core web tech.
+</div>
 
 ---
 
-## 🗺️ Roadmap Focus
+## 👩‍💻 About Me
 
-* **Phase 1 (2024–2025):** Core Logic, OOPs, Data Structures Foundation.
-* **Phase 2 (2025–2026):** Web Engineering, Advanced Databases, System Architecture.
-* **Phase 3 (2026–2027):** Full-Stack Deployment, Production Code, Open-Source.
+I am a **Bachelor of Computer Applications (BCA) student** with a strong interest in **software development, programming, and web technologies**. I enjoy learning new concepts, building practical projects, and improving my technical skills through hands-on experience.
+
+I use GitHub to document my learning journey, manage my projects, explore new ideas, and showcase the skills I develop along the way.
+
+---
+
+## 🎓 Education
+
+- **Bachelor of Computer Applications (BCA)**
+- Currently pursuing my degree
+- Focused on programming, computer science fundamentals, and software development
 
 ---
 
-## 🎯 Approach
+## 🛠️ Technical Skills
 
-* Focus on fundamental clarity and clean code principles.
-* Updated systematically as I learn, build, and refine.
+- **Programming Languages:** C, C++
+- **Web Technologies:** HTML, CSS
+- **Development Tools:** VS Code
+- **Version Control:** Git, GitHub
 
 ---
-*Maintained by **Sneha**.*
 
-<!--
-**snehanishad2407/snehanishad2407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Currently Exploring
 
-Here are some ideas to get you started:
+- Programming fundamentals
+- Problem-solving and logical thinking
+- Web development
+- Git & GitHub
+- Software development workflows
+- Building practical projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 Career Goal
+
+My goal is to become a **skilled Software Engineer** by continuously learning, gaining practical experience, and building meaningful projects that strengthen my technical and problem-solving abilities.
+
+---
+
+## 🌱 My Learning Journey
+
+I believe in learning by **understanding, practicing, and building**. Every project and every new concept is an opportunity to improve my skills and move one step closer to my career goals.
+
+<div align="center">
+
+### ✨ Learn. Build. Improve. Grow. ✨
+
+</div>
